@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "countdown",
+  "name": "newsletter-group07",
   "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "title": "Newsletter",
+  "description": "Newsletter",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
