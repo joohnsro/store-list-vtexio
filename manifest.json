@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "newsletter-group07",
+  "name": "leadslist-group07",
   "version": "0.0.1",
-  "title": "Newsletter",
-  "description": "Newsletter",
+  "title": "Leads List",
+  "description": "Leads List",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
